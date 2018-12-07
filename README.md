@@ -1,1 +1,1 @@
-This is a test repository for 514 hw6.
+This is the first test repository for 514 hw6.
