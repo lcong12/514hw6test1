@@ -13,6 +13,10 @@ public class FindClosestMatch {
      *
      * @param args
      *            command line arguments, the input urls.
+     * Just randomly add some thing, used to test 514 hw6.
+     * shuatishuatishuatishuatishuatishuatishuatishuatishuati.
+     * Pass and fail
+     * Counting objects: 4, done. Delta compression using up to 4 threads. Compressing objects: 100% (4/4), done. Writing objects: 100% (4/4), 556 bytes | 556.00 KiB/s, done.
      */
 
     public static void main(String[] args) {
@@ -40,3 +44,4 @@ public class FindClosestMatch {
         System.out.println(allPages[pair[0]] + " " + allPages[pair[1]]);
     }
 }
+
